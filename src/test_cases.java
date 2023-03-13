@@ -4,7 +4,7 @@ public class test_cases {
 
     @Test
     void steup(){
-        System.out.println(" i am inside setup adadad sfaddsf");
+        System.out.println(" i am inside setup adadad online chane");
     }
     @Test
     void testSteps(){
